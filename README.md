@@ -56,19 +56,18 @@ Production Ready AI Platform
 
 ---
 
-### 📄 DocStudio AI
+### 📄 DocStudio 
 
-Professional AI Document Generator
+Professional  Document Generator
 
 Features
 
-- Resume Builder
-- Cover Letter Generator
-- Proposal Generator
+
+
+
 - Agreement Generator
 - Reports
 - Letters
-- AI Templates
 
 ---
 
